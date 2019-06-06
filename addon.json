@@ -1,0 +1,4 @@
+{
+    "package-name": "djangocms-defaultplugins",
+    "installed-apps": ["djangocms_defaultplugins"]
+}
